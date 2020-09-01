@@ -1,16 +1,16 @@
 codigo_de_provincia,nombre_de_provincia,diferencia,segundo_partido
-16,Cuenca                        ,227.0,vox
-22,Huesca                        ,1813.0,vox
-17,Girona                        ,2007.0,cup_pr
-12,Castellón / Castelló          ,4163.0,pp
-02,Albacete                      ,5507.0,pp
-50,Zaragoza                      ,5774.0,cs
-30,Murcia                        ,5850.0,cs
-27,Lugo                          ,5925.0,pp
-32,Ourense                       ,5941.0,pp
-23,Jaén                          ,6218.0,pp
-25,Lleida                        ,6597.0,jxcat_junts
-15,A Coruña                      ,7810.0,vox
-41,Sevilla                       ,13140.0,vox
-43,Tarragona                     ,36820.0,erc_sobiranistes
-08,Barcelona                     ,79789.0,erc_sobiranistes
+16,Cuenca                        ,227,vox
+22,Huesca                        ,1813,vox
+17,Girona                        ,2007,cup_pr
+12,Castellón / Castelló          ,4163,pp
+02,Albacete                      ,5507,pp
+50,Zaragoza                      ,5774,cs
+30,Murcia                        ,5850,cs
+27,Lugo                          ,5925,pp
+32,Ourense                       ,5941,pp
+23,Jaén                          ,6218,pp
+25,Lleida                        ,6597,jxcat_junts
+15,A Coruña                      ,7810,vox
+41,Sevilla                       ,13140,vox
+43,Tarragona                     ,36820,erc_sobiranistes
+08,Barcelona                     ,79789,erc_sobiranistes

@@ -1,11 +1,12 @@
-;Problemas;Porcentaje
-0;El paro;60.3
-1;Los políticos en general, los partidos políticos y la política;45.5
-2;Los problemas de índole económica;30.4
-3;La independencia de Cataluña (*);19.0
-4;La corrupción y el fraude;18.4
-5;La sanidad;15.2
-6;Los problemas relacionados con la calidad del empleo;13.3
-7;Los problemas de índole social;12.6
-8;Las pensiones;11.4
-9;La inmigración;11.3
+Problemas,Porcentaje
+El paro,60.3
+"Los políticos en general, los partidos políticos y la política",45.5
+Los problemas de índole económica,30.4
+La independencia de Cataluña (*),19.0
+La corrupción y el fraude,18.4
+La sanidad,15.2
+Los problemas relacionados con la calidad del empleo,13.3
+Los problemas de índole social,12.6
+Las pensiones,11.4
+La inmigración,11.3
+

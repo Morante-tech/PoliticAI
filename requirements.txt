@@ -1,0 +1,14 @@
+pandas>=1.5
+numpy
+openpyxl            # lectura de .xlsx
+xlrd                # lectura de .xls antiguos
+plotly>=5.24        # px.choropleth_map
+statsmodels         # líneas de tendencia de plotly (ols, lowess)
+scikit-learn
+matplotlib
+nltk
+beautifulsoup4
+wordcloud
+tqdm
+jupyterlab
+chart-studio        # opcional: solo para publicar_en_chart_studio

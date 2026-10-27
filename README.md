@@ -42,8 +42,6 @@ jupyter lab notebooks/
 
 Los datos de entrada son públicos, pero no se incluyen en el repositorio. En [`data/README.md`](data/README.md) se explica de dónde descargar cada fichero y dónde colocarlo. Si los tienes en otra carpeta, indícala con la variable de entorno `POLITICAI_DATA_DIR`.
 
-Para subir los gráficos a [Chart Studio](https://chart-studio.plotly.com/), define `CHART_STUDIO_USERNAME` y `CHART_STUDIO_API_KEY` y descomenta las llamadas a `publicar_en_chart_studio`. No es necesario para ejecutar los análisis.
-
 ## Licencia
 
 [MIT](LICENSE).

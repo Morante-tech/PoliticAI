@@ -11,4 +11,3 @@ beautifulsoup4
 wordcloud
 tqdm
 jupyterlab
-chart-studio        # opcional: solo para publicar_en_chart_studio
